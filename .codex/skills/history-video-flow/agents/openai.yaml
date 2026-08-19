@@ -1,0 +1,5 @@
+interface:
+  display_name: "History Video Flow"
+  short_description: "Coordinates a complete animated history episode"
+  default_prompt: "Use $history-video-flow to produce the next complete animated history episode from my topic."
+

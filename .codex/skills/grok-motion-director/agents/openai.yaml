@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grok Motion Director"
+  short_description: "Adds one controlled motion to approved stills"
+  default_prompt: "Use $grok-motion-director to write restrained image-to-video prompts for the approved stills."
+

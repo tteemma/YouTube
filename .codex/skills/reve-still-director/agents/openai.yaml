@@ -1,0 +1,5 @@
+interface:
+  display_name: "Reve Still Director"
+  short_description: "Writes one controlled Reve prompt per shot"
+  default_prompt: "Use $reve-still-director to create the complete set of shot-specific Reve prompts."
+

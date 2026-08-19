@@ -1,0 +1,5 @@
+interface:
+  display_name: "Short History Scriptwriter"
+  short_description: "Writes one evidence-linked causal mini-story"
+  default_prompt: "Use $short-history-scriptwriter to turn the approved claims into a concise Russian narration."
+

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Voice Handoff Editor"
+  short_description: "Prepares an ElevenLabs-ready narration package"
+  default_prompt: "Use $voice-handoff-editor to prepare the approved episode narration for ElevenLabs."
+

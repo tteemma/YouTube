@@ -1,0 +1,5 @@
+interface:
+  display_name: "Episode QC"
+  short_description: "Runs the final cross-artifact production gate"
+  default_prompt: "Use $episode-qc to audit the complete episode package before voice generation."
+

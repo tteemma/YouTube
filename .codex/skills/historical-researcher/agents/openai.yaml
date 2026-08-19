@@ -1,0 +1,5 @@
+interface:
+  display_name: "Historical Researcher"
+  short_description: "Builds the sourced dossier and claim ledger"
+  default_prompt: "Use $historical-researcher to research the approved brief and create an atomic claim ledger."
+

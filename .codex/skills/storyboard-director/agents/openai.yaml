@@ -1,0 +1,5 @@
+interface:
+  display_name: "Storyboard Director"
+  short_description: "Turns narration into a timed visual shot list"
+  default_prompt: "Use $storyboard-director to convert the approved script into a production-ready shot list."
+

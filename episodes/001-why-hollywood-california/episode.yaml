@@ -1,0 +1,8 @@
+episode_id: "001"
+slug: "why-hollywood-california"
+title: "Почему Голливуд оказался в Калифорнии?"
+current_stage: awaiting_stills
+stage_status: blocked
+blocker: "Нужны 12 still-кадров, сгенерированных в Reve; для S01, S04, S09 и S12 обязательно приложить три референса Мальтипу. Файлы референсов data/ отсутствуют в рабочем дереве."
+next_owner: human/Reve
+next_action: "Добавить три reference image и сгенерировать S01–S12 по 07-reve-prompts.md, затем сохранить пути к still-файлам в episode.yaml."

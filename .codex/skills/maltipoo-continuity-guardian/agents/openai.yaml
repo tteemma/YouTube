@@ -1,0 +1,5 @@
+interface:
+  display_name: "Maltipoo Continuity Guardian"
+  short_description: "Protects the recurring detective's identity"
+  default_prompt: "Use $maltipoo-continuity-guardian to plan or review Maltipoo character continuity for this episode."
+

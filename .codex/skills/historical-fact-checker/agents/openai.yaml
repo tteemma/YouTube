@@ -1,0 +1,5 @@
+interface:
+  display_name: "Historical Fact-checker"
+  short_description: "Independently approves narration-safe claims"
+  default_prompt: "Use $historical-fact-checker to verify the episode research and produce the approved claim ledger."
+

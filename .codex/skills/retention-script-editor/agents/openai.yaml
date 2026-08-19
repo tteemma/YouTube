@@ -1,0 +1,5 @@
+interface:
+  display_name: "Retention Script Editor"
+  short_description: "Gates hooks, pacing, causality, and payoff"
+  default_prompt: "Use $retention-script-editor to independently review the episode script for retention."
+

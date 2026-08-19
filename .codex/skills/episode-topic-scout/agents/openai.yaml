@@ -1,0 +1,5 @@
+interface:
+  display_name: "Episode Topic Scout"
+  short_description: "Selects a strong one-question history topic"
+  default_prompt: "Use $episode-topic-scout to rank historical episode ideas and write an approved brief."
+
